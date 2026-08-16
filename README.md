@@ -36,30 +36,25 @@ My main focus is **C#, ASP.NET Core, Entity Framework Core, SQL Server, and REST
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" height="40" alt="REST API" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40" alt="JWT" />
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" alt="SignalR" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="40" alt="Redis" />
 </p>
 
 ### Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="50" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40" alt="SQL Server" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" height="50" alt="HTML CSS JavaScript" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&perline=5" height="50" alt="Git GitHub Visual Studio VS Code Postman" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40" alt="Swagger" />
 </p>
 
@@ -109,16 +104,12 @@ A tourism platform for discovering places, tours, categories, reviews, and favor
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamtarek90&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamtarek90&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariamtarek90&theme=github_dark" width="95%" alt="GitHub Profile Details" />
 </p>
 
----
-
-## Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mariamtarek90&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariamtarek90&theme=github_dark" width="48%" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariamtarek90&theme=github_dark" width="48%" alt="Top Languages" />
 </p>
 
 ---
