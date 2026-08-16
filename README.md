@@ -1,29 +1,29 @@
 # Hi 👋, I'm Mariam Tarek
 
-### 💻 Junior Backend .NET Developer | Computer Science Graduate
+### Junior Backend .NET Developer | Computer Science Graduate
 
-I'm a **Backend .NET Developer** passionate about building reliable, scalable, and maintainable web applications.
+I'm a Backend .NET Developer passionate about building reliable, scalable, and maintainable web applications.
 
-I specialize in **C#, ASP.NET Core, Entity Framework Core, SQL Server, and RESTful APIs**, with a strong interest in clean architecture, software design, and problem solving.
-
----
-
-## 👩‍💻 About Me
-
-* 🎓 B.Sc. in Computer Science — October 6 University
-* 💻 Focused on **Backend Development with .NET**
-* 🚀 Experienced in building **RESTful APIs**
-* 🔐 JWT Authentication & Authorization
-* 📡 Real-time communication with **SignalR**
-* 🗄️ Database design with **SQL Server & EF Core**
-* 🧩 Interested in **Clean Architecture & Clean Code**
-* 👩‍🏫 Programming Instructor & Team Supervisor
-* 🌱 Currently deepening my knowledge of **Advanced .NET Backend Development**
-* 💼 Open to **Junior Backend .NET opportunities**
+My main focus is **C#, ASP.NET Core, Entity Framework Core, SQL Server, and RESTful APIs**, with a strong interest in clean code, software architecture, and problem solving.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+* B.Sc. in Computer Science — October 6 University
+* Focused on Backend Development with .NET
+* Experienced in building RESTful APIs
+* JWT Authentication & Authorization
+* Real-time communication with SignalR
+* Database design with SQL Server & Entity Framework Core
+* Interested in Clean Architecture & Clean Code
+* Programming Instructor & Team Supervisor
+* Continuously improving my Backend Development skills
+* Open to Junior Backend .NET opportunities
+
+---
+
+## Tech Stack
 
 ### Backend
 
@@ -36,32 +36,32 @@ I specialize in **C#, ASP.NET Core, Entity Framework Core, SQL Server, and RESTf
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" />
 </p>
 
-`SQL Server` `MySQL` `Database Design`
+`SQL Server` `Database Design`
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-`HTML` `CSS` `JavaScript` `Bootstrap` `React`
+`HTML` `CSS` `JavaScript`
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
 </p>
 
-`Git` `GitHub` `Visual Studio` `VS Code` `Postman` `Swagger` `Docker`
+`Git` `GitHub` `Visual Studio` `VS Code` `Postman` `Swagger`
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🚌 TransiGuide
+### TransiGuide
 
 A smart transportation platform designed to improve the public transportation experience.
 
@@ -74,27 +74,30 @@ A smart transportation platform designed to improve the public transportation ex
 * Database design
 * Redis integration
 
-**Tech:** `C#` `ASP.NET Core` `EF Core` `SQL Server` `JWT` `SignalR` `Redis`
+**Tech Stack:**
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `JWT` `SignalR` `Redis`
 
 ---
 
-### 🎫 Eventa
+### Eventa
 
 A backend application for managing events and related operations through a structured RESTful API.
 
-**Tech:** `C#` `ASP.NET Core` `EF Core` `SQL Server` `REST API`
+**Tech Stack:**
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `REST API`
 
 ---
 
-### 🌍 Tour Egypt
+### Tour Egypt
 
 A tourism platform for discovering places, tours, categories, reviews, and favorites.
 
-**Tech:** `ASP.NET Core` `EF Core` `SQL Server` `JWT` `AutoMapper` `REST API`
+**Tech Stack:**
+`ASP.NET Core` `Entity Framework Core` `SQL Server` `JWT` `AutoMapper` `REST API`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mariamtarek90&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
@@ -103,7 +106,7 @@ A tourism platform for discovering places, tours, categories, reviews, and favor
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mariamtarek90&theme=transparent&hide_border=true" />
@@ -111,18 +114,31 @@ A tourism platform for discovering places, tours, categories, reviews, and favor
 
 ---
 
-## 🎯 Currently Working On
+## Currently Working On
 
-* 🚀 Building and improving **.NET Web APIs**
-* 🏗️ Learning more about **Clean Architecture**
-* 🔐 Improving Authentication & Authorization
-* 🗄️ Deepening my knowledge of **Database Design & Optimization**
-* ☁️ Exploring **Docker & Cloud Technologies**
-* 🧠 Strengthening **Data Structures & Algorithms**
+* Building and improving .NET Web APIs
+* Learning more about Clean Architecture
+* Improving Authentication & Authorization
+* Deepening my knowledge of Database Design & Optimization
+* Strengthening Data Structures & Algorithms
 
 ---
 
-## 📫 Let's Connect
+## Career Interests
+
+I'm interested in opportunities where I can:
+
+* Build reliable and scalable backend systems
+* Work with experienced software engineers
+* Solve real-world technical problems
+* Learn modern backend architectures
+* Contribute to production-level applications
+
+**Open to Junior Backend .NET opportunities and internships.**
+
+---
+
+## Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mariam-tarek-908920315/">
@@ -145,5 +161,5 @@ A tourism platform for discovering places, tours, categories, reviews, and favor
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
+  Feel free to explore my repositories and connect with me.
 </p>
